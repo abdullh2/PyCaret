@@ -7,5 +7,5 @@
 
 # Some pictures from the project
 
-![[image/Pasted image 20230916233141.png]]
-![[image/Pasted image 20230916233301.png]]![[image/Pasted image 20230916233423.png]]![[image/Pasted image 20230916233810.png]]
+![[Pasted image 20230916233141.png]]
+![[Pasted image 20230916233301.png]]![[Pasted image 20230916233423.png]]![[Pasted image 20230916233810.png]]
